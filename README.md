@@ -12,7 +12,7 @@ This repository contains the tasks that I completed while working as an intern f
 ## Note
 
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 
 Notebooks in which i have written the code,were taking memory of more than 25MB,so inorder to push my files,i have compressed them and pushed them,one can also view the exact code which i have written in those notebooks,by clicking the Chrome icon on the Right side.
@@ -20,7 +20,7 @@ Notebooks in which i have written the code,were taking memory of more than 25MB,
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%201.rar)
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 ### # Task-1 : Prediction using Supervised ML 
 _Please click on the images on right side to view my solution._
@@ -34,7 +34,7 @@ _Please click on the images on right side to view my solution._
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%202.rar)
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 ### # Task-2 : Prediction using Unsupervised ML 
 _Please click on the images on right side to view my solution._
@@ -46,7 +46,7 @@ _Please click on the images on right side to view my solution._
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%203.rar)
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 
 ### # Task-3 : Exploratory Data Analysis - Retail
@@ -59,7 +59,7 @@ _Please click on the images on right side to view my solution._
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%204.rar)
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 
 ### # Task-4 : Exploratory Data Analysis - Terrorism
@@ -75,7 +75,7 @@ _Please click on the images on right side to view my solution._
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%205.rar)
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 ### # Task-5 : Exploratory Data Analysis - Sports
 _Please click on the images on right side to view my solution (preferably youtube)._
@@ -91,7 +91,7 @@ contributing win or loss of a team.
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%206.rar)
 
-[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/)
 
 ### # Task-6 : Prediction using Decision Tree Algorithm
 _Please click on the images on right side to view my solution (preferably youtube)._
