@@ -9,8 +9,18 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 
+## Note
 
-[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+
+
+Notebooks in which i have written the code,were taking memory of more than 25MB,so inorder to push my files,i have compressed them and pushed them,one can also view the exact code which i have written in those notebooks,by clicking the Chrome icon on the Right side.
+
+
+[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%201.rar)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
 
 ### # Task-1 : Prediction using Supervised ML 
 _Please click on the images on right side to view my solution._
@@ -22,7 +32,9 @@ _Please click on the images on right side to view my solution._
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
-[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%202.rar)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
 
 ### # Task-2 : Prediction using Unsupervised ML 
 _Please click on the images on right side to view my solution._
@@ -32,7 +44,9 @@ _Please click on the images on right side to view my solution._
 3. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
 
-[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%203.rar)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
 
 
 ### # Task-3 : Exploratory Data Analysis - Retail
@@ -43,7 +57,10 @@ _Please click on the images on right side to view my solution._
 3. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 
-[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%204.rar)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
+
 
 ### # Task-4 : Exploratory Data Analysis - Terrorism
 _Please click on the images on right side to view my solution._ 
@@ -56,7 +73,9 @@ _Please click on the images on right side to view my solution._
 5. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
 
-[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%205.rar)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
 
 ### # Task-5 : Exploratory Data Analysis - Sports
 _Please click on the images on right side to view my solution (preferably youtube)._
@@ -68,7 +87,11 @@ contributing win or loss of a team.
 4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 5. Dataset link :[https://bit.ly/34SRn3b](https://bit.ly/34SRn3b)
 
-[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+
+
+[<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%206.rar)
+
+[<img align = right height = 50 width = 50 src = "https://image.flaticon.com/icons/png/512/152/152759.png">](https://mv1249.github.io/)
 
 ### # Task-6 : Prediction using Decision Tree Algorithm
 _Please click on the images on right side to view my solution (preferably youtube)._
