@@ -107,7 +107,7 @@ predict the right class accordingly.
 3. Dataset link :[https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/PLASL3p3i3Y)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtube.com/playlist?list=PL_2zLHQFeT3Us0PUIISxf5ITviDUfzQdU)
 One can view my work on Youtube,by pressing the button on the right.
 
  ### Tools Used
