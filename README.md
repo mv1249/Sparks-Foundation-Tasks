@@ -75,9 +75,12 @@ _Please click on the images on right side to view my solution._
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%205.rar)
 
-[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/Task5part1.html)
 
 [<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/Task5part2)
+
+
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mv1249.github.io/Task5part1.html)
+
 
 ### # Task-5 : Exploratory Data Analysis - Sports
 _Please click on the images on right side to view my solution (preferably youtube)._
