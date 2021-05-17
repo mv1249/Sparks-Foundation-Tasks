@@ -17,6 +17,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 Notebooks in which i have written the code,were taking memory of more than 25MB,so inorder to push my files,i have compressed them and pushed them,one can also view the exact code which i have written in those notebooks,by clicking the Chrome icon on the Right side.
 
+The Data used in all the tasks is present in the Data Folder and all the Individual Tasks have been made seperatedly made with their name as a .rar file
+
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/Sparks-Foundation-Tasks/blob/main/Task%201.rar)
 
